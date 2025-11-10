@@ -1,6 +1,6 @@
 # Student Performance Prediction
 
-A machine learning project that predicts student final grades using classical ML algorithms on the UCI Student Performance dataset. The dataset includes student performance data from two Portuguese schools, covering Mathematics and Portuguese language courses with demographic, social, and school-related features.
+A machine learning project that predicts student final grades using classical ML algorithms on the Student Performance dataset. The dataset includes student performance data from two Portuguese schools, covering Mathematics and Portuguese language courses with demographic, social, and school-related features.
 
 **Course**: CSE427 - Machine Learning | BRAC University  
 **Note**: For the most current implementation details, please refer to the Jupyter Notebook. The research paper included in this repository may not reflect the latest code updates.
